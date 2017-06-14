@@ -5,14 +5,14 @@
         public static int m_ClientPointer;
         public static int m_EnginePointer;
 
-        public static int m_dwLocalPlayer = 0x00AB2704;
-        public static int m_dwClientState = 0x005CC584;
-        public static int m_dwGlowObject = 0x04FF067C;
-        public static int m_dwEntityList = 0x04AD5C24;
-        public static int m_angEyeAngles = 0x0000AA08;
-        public static int m_dwViewMatrix = 0x04AC77C4;
-        public static int m_iCrossHairID = 0x0000AA70;
-        public static int m_dwForceJump = 0x04F6C854;
+        public static int m_dwLocalPlayer = 0xAAAFEC;
+        public static int m_dwClientState = 0x59F21C;
+        public static int m_dwGlowObject = 0x4FA44E0;
+        public static int m_dwEntityList = 0x4A87504;
+        public static int m_angEyeAngles = 0x0000B24C;
+        public static int m_dwViewMatrix = 0x4A78F74;
+        public static int m_iCrossHairID = 0xB2B4;
+        public static int m_dwForceJump = 0x4F1E494;
         public static int m_iGlowIndex = 0x0000A320;
         public static int m_vecOrigin = 0x00000134;
         public static int m_lifeState = 0x0000025B;
